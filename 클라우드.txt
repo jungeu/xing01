@@ -1,0 +1,57 @@
+https://aws.amazon.com/ko/rds/mysql/
+
+http://saksin.tistory.com/1241
+
+db ins    user      pw
+business jungeu01 rokeu3975
+
+
+database name business
+
+ https://us-west-2.console.aws.amazon.com/rds/home?region=us-west-2#dbinstances:id=business;sf=all
+
+business.c0f1qebu8vto.us-west-2.rds.amazonaws.com:3306
+
+business.c0f1qebu8vto.us-west-2.rds.amazonaws.com:3306 
+
+https://www.youtube.com/watch?v=vE2E7cYJ0IQ
+
+
+mysql -h  business.c0f1qebu8vto.us-west-2.rds.amazonaws.com -u jungeu01 -p
+
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/java-rds.html
+
+mysql 
+http://stackoverflow.com/questions/8344057/connect-to-mysql-on-aws-from-local-machine
+
+
+
+business.c0f1qebu8vto.us-west-2.rds.amazonaws.com:3306/business
+
+아마존클라우드  jdk 설치 
+
+
+http://ora-sysdba.tistory.com/entry/Cloud-Computing-Amazon-EC2-인스턴스-JavaJDK-설치
+
+EC2를 이용한 서버설치 및 서비스사용
+http://egloos.zum.com/isduck/v/3382096
+
+
+http://ji-ggu.tistory.com/21
+
+http://hyeonstorage.tistory.com/276 aws rds 인코딩 다른 것도 많음 중요
+show variables like 'c%';
+
+       DriverManager.getConnection("jdbc:mysql://localhost/test?" +
+                                   "user=minty&password=greatsqldb");
+
+Error saving: Cannot modify a default parameter group. (Service: AmazonRDS; Status Code: 400; Error Code: InvalidParameterValue; Request ID: ee956f1e-a7c3-11e5-9b4d-996b45d5285d)
+
+
+http://cinema4dr12.tistory.com/741
+
+jframe thread stop resume
+
+http://stackoverflow.com/questions/11989589/how-to-pause-and-resume-a-thread-in-java-from-another-thread
+
